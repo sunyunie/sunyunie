@@ -1,5 +1,19 @@
 # 💫 About Me:
-I am working on developing an indie-scale 3D adventure platformer game.<br><br>I am proficient in Unity Engine and am currently learning:<br><br>Blender<br>Unreal Engine<br>Shaders<br>Graphics<br>Render pipeline optimization<br>Graphics programming
+I am currently developing an indie-scale 3D adventure platformer game.
+
+I am proficient in Unity Engine and am actively learning:
+
+Blender
+
+Unreal Engine
+
+Shaders
+
+Graphics
+
+Render pipeline optimization
+
+Graphics programming
 
 
 ## 🌐 Socials:
