@@ -1,5 +1,21 @@
 # 💫 About Me:
-I am a student in the Game Software Department<br>at Hoseo University, and I currently serve as the vice president<br>of TeamCreator, a game development club, in 2025.<br><br>I am working on developing an indie-scale 3D adventure platformer game.<br><br>I am proficient in Unity Engine and am currently learning:<br><br>Blender<br>Unreal Engine<br>Shaders<br>Graphics<br>Render pipeline optimization<br>Graphics programming
+I am a student in the Game Software Department at Hoseo University, and I currently serve as the vice president of TeamCreator, a game development club, in 2025.
+
+I am currently developing an indie-scale 3D adventure platformer game.
+
+I am proficient in Unity Engine and am actively learning:
+
+Blender
+
+Unreal Engine
+
+Shaders
+
+Graphics
+
+Render pipeline optimization
+
+Graphics programming
 
 
 ## 🌐 Socials:
