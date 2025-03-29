@@ -1,6 +1,16 @@
 # 💫 About Me:
-<p>I am currently developing an <strong>indie-scale 3D adventure platformer game</strong>.</p><br><br><p>I am proficient in <strong>Unity Engine</strong> and am actively learning:</p><br><br><ul><br>  <li><strong>Blender</strong></li><br>  <li><strong>Unreal Engine</strong></li><br>  <li><strong>Shaders</strong></li><br>  <li><strong>Graphics</strong></li><br>  <li><strong>Graphics programming</strong></li><br>  <li><strong>Render pipeline optimization</strong></li><br></ul>
+<p>I am currently developing an <strong>indie-scale 3D adventure platformer game</strong>.</p>
 
+<p>I am proficient in <strong>Unity Engine</strong> and am actively learning:</p>
+
+<ul>
+  <li><strong>Blender</strong></li>
+  <li><strong>Unreal Engine</strong></li>
+  <li><strong>Shaders</strong></li>
+  <li><strong>Graphics</strong></li>
+  <li><strong>Render pipeline optimization</strong></li>
+  <li><strong>Graphics programming</strong></li>
+</ul>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@cavestory_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:109972957+sunyunie@users.noreply.github.com) 
