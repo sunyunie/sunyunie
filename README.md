@@ -10,8 +10,8 @@
   <li><strong>Unreal Engine</strong></li>
   <li><strong>Shaders</strong></li>
   <li><strong>Graphics</strong></li>
-  <li><strong>Render pipeline optimization</strong></li>
   <li><strong>Graphics programming</strong></li>
+  <li><strong>Render pipeline optimization</strong></li>
 </ul>
 
 
