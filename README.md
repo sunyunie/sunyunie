@@ -31,7 +31,7 @@
 [![](https://visitcount.itsvg.in/api?id=Sunyunie&icon=10&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://patreon.com/Sunyunie) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)]([https://patreon.com/https://patreon.com/Sunyunie](https://patreon.com/Sunyunie?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
