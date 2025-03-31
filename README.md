@@ -6,6 +6,7 @@
 <p>I am proficient in <strong>Unity Engine</strong> and am actively learning:</p>
 
 <ul>
+  <li><strong>Wwise</strong></li>
   <li><strong>Blender</strong></li>
   <li><strong>Unreal Engine</strong></li>
   <li><strong>Shaders</strong></li>
