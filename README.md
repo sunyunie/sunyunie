@@ -22,8 +22,50 @@ Visit my [Itch.io](https://sunyunie.itch.io/ffmpeg-nyaagui)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@cavestory_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cathook@naver.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sunyunie_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sunyunie) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Corona SDK](https://img.shields.io/badge/Corona%20SDK-F7B500?style=for-the-badge&logoColor=black) ![MonoGame](https://img.shields.io/badge/monogame-E73C00?style=for-the-badge&logo=monogame&logoColor=white) ![XNA](https://img.shields.io/badge/XNA-F28C28?style=for-the-badge&logoColor=white) ![Wwise](https://img.shields.io/badge/Wwise-00549F?style=for-the-badge&logo=wwise&logoColor=white) ![Cascadeur](https://img.shields.io/badge/Cascadeur-FFCC00?style=for-the-badge&logoColor=black) ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6C37?style=for-the-badge&logo=adobe&logoColor=white) ![raylib](https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
+### 💻 Tech Stack:
+
+#### 🧠 Languages & Runtime
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+#### 🎮 Engines & Frameworks
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godot-engine&logoColor=black)
+![MonoGame](https://img.shields.io/badge/MonoGame-E73C00?style=for-the-badge&logo=monogame&logoColor=white)
+![XNA](https://img.shields.io/badge/XNA-F28C28?style=for-the-badge&logoColor=white)
+![raylib](https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
+![Corona SDK](https://img.shields.io/badge/Corona%20SDK-F7B500?style=for-the-badge&logoColor=black)
+
+---
+
+#### 🎞️ Animation
+![Cascadeur](https://img.shields.io/badge/Cascadeur-FFCC00?style=for-the-badge&logoColor=black)
+
+---
+
+#### 🔊 Audio
+![Wwise](https://img.shields.io/badge/Wwise-00549F?style=for-the-badge&logo=wwise&logoColor=white)
+
+---
+
+#### 🎨 Graphic Tools / DCC
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white)
+![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-CFD3D3?style=for-the-badge&logo=clipstudiopaint&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6C37?style=for-the-badge&logo=adobe&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
