@@ -13,6 +13,8 @@
   <li><strong>Graphics</strong></li>
   <li><strong>Render pipeline optimization</strong></li>
   <li><strong>Graphics programming</strong></li>
+  <li><strong>Sound design</strong></li>
+  <li><strong>Mixing & Mastering</strong></li>
 </ul>
 
 Visit my [Asset Store](https://assetstore.unity.com/publishers/114900)
