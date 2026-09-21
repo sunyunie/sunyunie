@@ -51,6 +51,11 @@ Visit my [Itch.io](https://sunyunie.itch.io/ffmpeg-nyaagui)
 ![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6C37?style=for-the-badge&logo=adobe&logoColor=white)
+![Gaea](https://img.shields.io/badge/QuadSpinner%20Gaea-1B1B1B?style=for-the-badge&logoColor=white)
+![Substance Designer](https://img.shields.io/badge/Substance%20Designer-99E83F?style=for-the-badge&logo=adobe&logoColor=black)
+![ZBrush](https://img.shields.io/badge/ZBrush-1C1C1C?style=for-the-badge&logo=maxon&logoColor=white)
+![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sunyunie&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
